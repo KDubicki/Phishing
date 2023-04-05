@@ -30,7 +30,7 @@ Scraping script, mail sender script, Google Analytics, and ready HTML templates.
 
 The real number of users who clicked on links in the emails is somewhere between the views and the captured users, because if two users used the same device but at different times, Google Analytics still sees them as the same user.
 
-![Phishing graph](https://i.pinimg.com/236x/c4/48/9a/c4489af34519fb1e90f50c8626bb65cf.jpg){:width="100%"}.
+![Phishing graph](https://i.pinimg.com/236x/c4/48/9a/c4489af34519fb1e90f50c8626bb65cf.jpg){width=400}
 
 Okay, now for the really interesting part. I cannot share the bounce emails here, but thanks to them, I learned that the emails I sent were modified before reaching the recipient by adding a prefix at the beginning of the email content about being cautious and not clicking on any links.
 
